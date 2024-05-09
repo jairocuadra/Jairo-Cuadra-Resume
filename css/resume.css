@@ -27,8 +27,8 @@ section {
 header {
   margin-top: 2em;
   border-bottom: 1px solid #000;
-  background-color: rgb{225, 247, 255};
-}
+    background-color: rgb(225, 247, 255);
+  }
 
 /* TYPOGRAPHY */
 li {
