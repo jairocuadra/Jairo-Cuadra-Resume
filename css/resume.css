@@ -15,17 +15,22 @@ html {
   padding: 0 20px;
 }
 
+
 section {
-  padding: 0 40px;
+  padding: 0 16px; /* Adjust as needed */
+  margin: 16px 0; /* Adjust as needed */
+  border: 1px solid rgb(234, 234, 234);
+  border-radius: 6px; /* Adjust as needed */
 }
 
 /* header */
 header {
   margin-top: 2em;
   padding: 20px 40px;
-  background-color: #f0f0f0;
+  background-image: linear-gradient(to right, #ffffff, #bbbbbb);
   border-radius: 6px;
-  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.1);
+  box-shadow: 8px 8px 8px #0000000d;
+  border: 1px solid rgb(234, 234, 234);
 }
 
 /* TYPOGRAPHY */
